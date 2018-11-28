@@ -1,0 +1,8 @@
+#header{
+    background: url(imgs/header.jpeg)
+}
+
+.navbar-brand, .display-3{
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 800;
+}
